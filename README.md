@@ -1,3 +1,10 @@
+I developed a web application that shows the 6-day weather forecast of Turkey's provinces. I made a responsive design using React components and tailwindCSS.
+
+## The weather api I use on Rapidapi
+
+```https://api.openweathermap.org/data/2.5/forecast?q=${searchCity}&appid=${appid}&lang=en&units=metric```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
